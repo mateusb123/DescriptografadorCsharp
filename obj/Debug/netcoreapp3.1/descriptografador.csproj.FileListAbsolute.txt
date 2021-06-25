@@ -1,0 +1,13 @@
+C:\C#\descriptografador\bin\Debug\netcoreapp3.1\descriptografador.exe
+C:\C#\descriptografador\bin\Debug\netcoreapp3.1\descriptografador.deps.json
+C:\C#\descriptografador\bin\Debug\netcoreapp3.1\descriptografador.runtimeconfig.json
+C:\C#\descriptografador\bin\Debug\netcoreapp3.1\descriptografador.runtimeconfig.dev.json
+C:\C#\descriptografador\bin\Debug\netcoreapp3.1\descriptografador.dll
+C:\C#\descriptografador\bin\Debug\netcoreapp3.1\descriptografador.pdb
+C:\C#\descriptografador\obj\Debug\netcoreapp3.1\descriptografador.csproj.AssemblyReference.cache
+C:\C#\descriptografador\obj\Debug\netcoreapp3.1\descriptografador.AssemblyInfoInputs.cache
+C:\C#\descriptografador\obj\Debug\netcoreapp3.1\descriptografador.AssemblyInfo.cs
+C:\C#\descriptografador\obj\Debug\netcoreapp3.1\descriptografador.csproj.CoreCompileInputs.cache
+C:\C#\descriptografador\obj\Debug\netcoreapp3.1\descriptografador.dll
+C:\C#\descriptografador\obj\Debug\netcoreapp3.1\descriptografador.pdb
+C:\C#\descriptografador\obj\Debug\netcoreapp3.1\descriptografador.genruntimeconfig.cache
